@@ -1,0 +1,102 @@
+Python for Initial Access
+Latest Submission Grade 50%
+1.
+Question 1
+TRUE or FALSE: The Initial Access stage is always the first time that an attacker interacts with a target's systems.
+
+1 / 1 point
+
+False {ANS}
+
+
+True
+
+Correct
+An attacker may interact with target systems during Reconnaissance as well.
+
+2.
+Question 2
+TRUE or FALSE: The Initial Access stage can blur into other stages of the attack life cycle.
+
+1 / 1 point
+
+True {ANS}
+
+
+False
+
+Correct
+Attacks like SQL injection may incorporate several stages into a single step.
+
+3.
+Question 3
+Which of the following are techniques for initial access? Choose all that apply. 
+
+0 / 1 point
+
+Supply Chain Compromise {ANS}
+
+Correct
+
+Hardware Additions {ANS}
+
+Correct
+
+Hijack Execution Flow
+
+This should not be selected
+
+External Remote Services {ANS}
+
+Correct
+External Remote Services, Hardware Additions and Supply Chain Compromise are Techniques for initial access.
+
+4.
+Question 4
+Why is USB autorun not always a viable infection vector for Windows?
+
+0 / 1 point
+
+Not all Windows versions support Autorun
+
+
+Autorun is always a viable attack vector 
+
+
+Autorun is disabled by default in Windows 10 {ANS}
+
+
+Autorun is a Linux concept 
+
+Incorrect
+5.
+Question 5
+Which of the following is an initial access Technique that bypasses many organizations' defenses?
+
+0 / 1 point
+
+Exploit Public-Facing Application {ANS}
+
+
+Drive-by Compromise 
+
+
+Phishing 
+
+
+Replication Through Removable Media
+
+Incorrect
+6.
+Question 6
+TRUE or FALSE: Valid accounts are a relatively easy attack vector for an attacker to exploit.
+
+1 / 1 point
+
+False
+
+
+True {ANS}
+
+Correct
+User credentials can be compromised in many ways, providing an attacker access to a valid user account.
